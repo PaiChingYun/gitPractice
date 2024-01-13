@@ -1,3 +1,3 @@
-second commit
+conflict
 third commit
 newBranch
