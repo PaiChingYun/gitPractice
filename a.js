@@ -1,3 +1,4 @@
-conflict
+conflictla
 third commit
 newBranch
+conflictlalala
